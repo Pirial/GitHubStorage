@@ -16,7 +16,7 @@
             <StackPanel DockPanel.Dock="Bottom" Visibility="Visible"  Margin="0,-25,0,0" MouseEnter="meAssetVideo_MouseEnter" x:Name="spControls" 
                         HorizontalAlignment="Stretch"
                         Height="25" Width="Auto" Orientation="Horizontal">
-                <!-- Play button. -->
+                <!-- Play button.222 -->
                 <Image Source="..\Assets\mini_play.png" MouseDown="OnMouseDownPlayMedia" Margin="2,0,0,0" />
                 <!-- Pause button. -->
                 <Image Source="..\Assets\mini_pause.png" MouseDown="OnMouseDownPauseMedia" Margin="0" />
