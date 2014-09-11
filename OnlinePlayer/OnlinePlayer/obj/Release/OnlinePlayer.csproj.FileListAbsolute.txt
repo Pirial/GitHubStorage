@@ -22,3 +22,6 @@ C:\Users\ignat_000\Documents\Visual Studio 2013\Projects\OnlinePlayer\OnlinePlay
 C:\Users\ignat_000\Documents\Visual Studio 2013\Projects\OnlinePlayer\OnlinePlayer\obj\Release\OnlinePlayer.exe
 C:\Users\ignat_000\Documents\Visual Studio 2013\Projects\OnlinePlayer\OnlinePlayer\obj\Release\OnlinePlayer.pdb
 C:\Users\ignat_000\Documents\Visual Studio 2013\Projects\OnlinePlayer\OnlinePlayer\obj\Release\OnlinePlayer.csprojResolveAssemblyReference.cache
+C:\Users\ignat_001\Documents\GitHub\GitHubStorage\OnlinePlayer\OnlinePlayer\bin\Release\OnlinePlayer.exe.config
+C:\Users\ignat_001\Documents\GitHub\GitHubStorage\OnlinePlayer\OnlinePlayer\obj\Release\OnlinePlayer.exe
+C:\Users\ignat_001\Documents\GitHub\GitHubStorage\OnlinePlayer\OnlinePlayer\obj\Release\OnlinePlayer.pdb
